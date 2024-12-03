@@ -34,7 +34,7 @@ So, in this example, 2 reports are safe.
 
 Analyze the unusual data from the engineers. How many reports are safe?
 
-PART 2: UNFINISHED - Will update on Github later
+PART 2: IN PROGRESS - Will update on Github later
 The engineers are surprised by the low number of safe reports until they realize they forgot to tell you about the Problem Dampener.
 
 The Problem Dampener is a reactor-mounted module that lets the reactor safety systems tolerate a single bad level in what would otherwise be a safe report. It's like the bad level never happened!
