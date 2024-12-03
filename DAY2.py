@@ -1,4 +1,4 @@
-fi = open('D:/Phuong/Code/Python/PRACTICEAGAIN/ADVENTOFCODEDAY2/DAY2.inp')
+fi = open('DAY2.inp')
 reports = fi.readlines()
 fi.close()
 count = 0
@@ -28,6 +28,6 @@ def safeReportFilter(report):
 for report in reports:
     if (safeReportFilter(report) == "SAFE"):
         count+=1
-fo = open('D:/Phuong/Code/Python/PRACTICEAGAIN/ADVENTOFCODEDAY2/DAY2.out','w')
+fo = open('DAY2.out','w')
 fo.write(str(count))
 fo.close()
